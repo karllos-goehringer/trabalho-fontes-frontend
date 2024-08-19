@@ -1,0 +1,136 @@
+.titulo{
+ text-align: center;
+ font-size: 60px;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-weight: bold;
+}
+.glifos{
+text-align: justify;
+font-size: medium;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.anatFontes{
+    text-align: justify;
+    font-size: medium;
+}
+
+.imagem-tabelas {
+    text-align: center; 
+}
+
+.imagem1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.tabelas{
+    display: flex; 
+    justify-content: flex-start; 
+    max-width: 1500px; 
+    margin: 20px auto; 
+
+}
+.tabela1, .tabela2{
+    text-align: justify;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 700px; 
+    margin: 10px 10px;
+}
+
+.tabela1 dl, .tabela2 dl{
+    margin: 0;
+}
+.subtitulo{
+    font-size: 40px;
+    text-align: center;
+}
+.categFontes{
+ text-align: justify;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+td{
+border-style: solid;
+border-color: black;
+border-width: 1px;
+width: 100px;
+padding:10px
+}
+.borda{
+    border-style: solid;
+    
+}
+table{
+    padding: 2px;
+    text-align: center;
+    position: relative;  
+}
+.serifada{ 
+    font-family: Georgia;
+
+}
+.sansserif{
+    font-family: Verdana;
+}
+.monoesp{
+    font-family: 'Lucida Sans';
+}
+.script{
+    font-family: "Style Script", cursive;
+    font-style: normal;
+}
+.display{
+    font-family: "Sedgwick Ave Display", cursive;
+    font-style: normal;
+}
+.bold{
+    font-weight: bold;
+}
+.leve{
+    font-weight: lighter;
+}
+.italic{
+    font-style: italic;
+}
+.bold1{
+    font-weight: bold;
+    font-family: Verdana;
+}
+.leve1{
+    font-weight: lighter;
+    font-family: "Style Script", cursive;
+    font-style: normal;
+}
+.italic1{
+    font-style: italic;
+    font-family: "Sedgwick Ave Display", cursive;
+    font-style: normal;
+}
+body{
+    background-color: #f8f9f9;
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+header{
+    background-color: #f8f9f9;
+    border: 4.5px;
+    padding: 2.5px;
+    border-color: black;
+    border-style: solid;
+}
+.primeira-parte{
+    background-color: #fdfefe  ;
+    border: 2.5px;
+    padding: 2.5px;
+    border-color: black;
+    border-style: solid;
+}
+.importfontes{
+    text-align: justify;
+    font-size: 20px;
+}
